@@ -5,7 +5,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 21/1039250  |  Arthur Grandão de Mello |
-| 21/10295440  |  Pedro Sena Barbosa Holtz Yen |
+| 21/1029540  |  Pedro Sena Barbosa Holtz Yen |
 
 ## Sobre 
 Este projeto consiste na resolução de questões de Juiz Eletrônico Online
